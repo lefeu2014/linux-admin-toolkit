@@ -24,4 +24,4 @@ A collection of Bash scripts and tools for automating common Linux system admini
 ## 🧑‍💻 Author
 
 Calvin Passy Evina Mbozoo  
-[LinkedIn](https://linkedin.com/in/YOUR_LINK_HERE)
+[LinkedIn](https://www.linkedin.com/in/calvin-evina-0087b1126/)
